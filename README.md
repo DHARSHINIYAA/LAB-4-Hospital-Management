@@ -1,7 +1,7 @@
 # LAB-4-Hospital-Management
-NAME : ALIYA SHEEMA 
+NAME : DHARSHINIYAA KS 
 
-REGISTER NUMBER : 212223230011
+REGISTER NUMBER : 212223100004
 
 ### AIM:
 To develop the Hospital management System using Star UML tool.
